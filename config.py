@@ -1,4 +1,4 @@
-TOKEN = "8226545963:AAEM5KLfo30GncqujiLXYYxvtb5u6fNCdp0"
+TOKEN = "8667497753:AAHwKYf4geuBcAMCadMjRbBGjYabGaF5jAk"
 ADMINS = [7910618692]
 crypto = "514407:AAYmqI3VxJYnDiKplzJSS3ZX1wOWDsIhtxD"
 GROQ_API_KEY = "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"
@@ -14,13 +14,13 @@ API = [
 
 MAX_MIRRORS_PER_USER = 5
 MIRROR_CLEANUP_DAYS = 360
-MAIN_BOT_USERNAME = "triada_snoserbot"
+MAIN_BOT_USERNAME = "triadaSNOS_bot"
 
 bot_logs = -1003774166432
 
 idd = 7910618692 # поддержки айди
 
-bot_username = "triada_snoserbot" # referalka  
+bot_username = "triadaSNOS_bot" # referalka  
 
 bot_channel_link = "https://t.me/wbank_ru"
 bot_channel_id = -1003572156104
