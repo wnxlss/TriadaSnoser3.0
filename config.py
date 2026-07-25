@@ -27,8 +27,8 @@ bot_channel_id = -1003572156104
 
 chat = "https://t.me/+iMxwHO9pwM0yZTEy"
 
-bot_channel_link2 = "https://t.me/snos_triada"
-bot_channel_id2 = -1003445656607
+bot_channel_link2 = "https://t.me/WBbankperhd"
+bot_channel_id2 = -1003339135307
 
 
 subscribe_1_day_usd = 0.26
