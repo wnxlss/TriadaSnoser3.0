@@ -137,8 +137,8 @@ information = '<a href=\"https://i.ibb.co/nqyQSFvk/IMG-1223.jpg\">&#8203</a>'
 promocod = '<a href=\"https://i.ibb.co/nqyQSFvk/IMG-1223.jpg\">&#8203</a>'
 
 
-kanal_url = "https://t.me/snos_triada"
-sozdatel_url = "https://t.me/scambaseRF"
+kanal_url = "https://t.me/wbank_ru"
+sozdatel_url = "https://t.me/Wbankmng"
 site_url = "https://triada-snos.vercel.app/"
 
 class States:
@@ -318,8 +318,8 @@ async def process_start_after_captcha(message: Message, state: FSMContext, bot: 
     
         
         banner = '<a href=\"https://i.ibb.co/nqyQSFvk/IMG-1223.jpg\">&#8203</a>'
-        kanal_url = "https://t.me/snos_triada"
-        sozdatel_url = "https://t.me/scambaseRF"
+        kanal_url = "https://t.me/wbank_ru"
+        sozdatel_url = "https://t.me/Wbankmng"
         site_url = "https://triada-snos.vercel.app/"
         
         caption_text = (
